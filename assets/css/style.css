@@ -34,7 +34,7 @@ header h1 {
 
 .form-input {
   border: 1px solid #024e76;
-  display:block;
+  display: block;
   padding: 7px 15px;
   font-size: 16px;
   color: #024e76;
@@ -96,8 +96,9 @@ header nav ul li a {
   position: absolute;
   bottom: 120px;
   right: 140px;
-  
 }
+
+
 /* Hero Style End */
 
 footer {
